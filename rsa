@@ -2,6 +2,7 @@
 import sys
 import os
 
+
 def func(file):
     with open(file, 'r') as f:
         for number in f:
